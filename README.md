@@ -43,26 +43,6 @@
 
 ---
 
-## Skill Highlights
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/ML-Advanced-FF6F61?style=flat-square&logo=scikit-learn&logoColor=white" alt="ML">
-</p>
-
----
-
-## Projects
-- **[AI-Driven Optimization Tool]**  
-  Award-winning solution for InnovateYou Techathon 2.0. Used Python, Scikit-learn, and Docker for resource optimization.  
-  [Repo](https://github.com/rohitkshirsagar19/project-name)
-
-- **[Stock Price Predictor]**  
-  Predictive model with YFinance, Pandas, and XGBoost. Deployed via Streamlit.  
-  [Repo](https://github.com/rohitkshirsagar19/project-name)
-
----
-
 ## Achievements
 - **InnovateYou Techathon 2.0 2025:** Secured "Best Solution" for an AI-driven optimization project  
 
@@ -73,27 +53,6 @@
 - Machine Learning A-Z (Python)  
 - Database Programming with SQL  
 - Full Stack Development  
-
----
-
-## Activity Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkshirsagar19&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
-## Contribution Graph
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph">
-</p>
-
----
-
-## Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohitkshirsagar19&theme=radical&no-frame=true" alt="GitHub Trophies">
-</p>
 
 ---
 
@@ -111,7 +70,7 @@
 - **Phone:** +91 9834978407  
 
 <p align="center">
-  <em>Reach out for collaboration or opportunities.</em>
+  <em>Check out my repos or reach out for collaboration.</em>
 </p>
 
 <p align="center">
