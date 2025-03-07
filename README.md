@@ -2,10 +2,10 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZybW95Ym90NjVrdWdpb3h1ODNnMXFmcTY2MGw5dGdqYzNlZTcxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" alt="AI Animation">
 </p>
 
-<h1 align="center">✨ Hey There, I'm Rohit Kshirsagar! ✨</h1>
+<h1 align="center">Rohit Kshirsagar</h1>
 
 <p align="center">
-  <em>A B.Tech student diving deep into the realms of AI, Data Science, and cool tech vibes!</em>
+  <em>B.Tech student | AI, Data Science, and Full-Stack Enthusiast</em>
 </p>
 
 <p align="center">
@@ -16,18 +16,18 @@
 
 ---
 
-## 🌟 About Me
-- 🎓 **Studying:** B.Tech in Computer Science (AI & Data Science) @ AISSMS IoIT, Pune (Expected 2026)
-- 💼 **Experience:** Python Developer @ MEGAMINDS IT Services (Jul 2024 - Sep 2024)
-- 🔥 **Passions:** Machine Learning, Data Science, Full-Stack Dev, MLOps
-- 🧠 **Currently Mastering:** Advanced ML tricks & Docker wizardry
+## About
+- **Education:** B.Tech in Computer Science (AI & Data Science), AISSMS IoIT, Pune (Expected 2026)  
+- **Experience:** Python Developer, MEGAMINDS IT Services (Jul 2024 - Sep 2024)  
+- **Focus:** Machine Learning, Data Science, Full-Stack Development, MLOps  
+- **Current Pursuit:** Advanced ML techniques and Docker optimization  
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
@@ -37,26 +37,26 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-- **Languages:** Python, C++, C, SQL, HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries:** Flask, Streamlit, NumPy, Pandas, Scikit-learn, XGBoost, PuLP, Matplotlib, Plotly, Seaborn, YFinance, Next.js, Prisma
-- **Tools & Platforms:** Git, Docker, VS Code, PyCharm, Google Colab, MLOps, Supabase, Google Custom Search API, Groq
+- **Languages:** Python, C++, C, SQL, HTML, CSS, JavaScript, TypeScript  
+- **Frameworks & Libraries:** Flask, Streamlit, NumPy, Pandas, Scikit-learn, XGBoost, PuLP, Matplotlib, Plotly, Seaborn, YFinance, Next.js, Prisma  
+- **Tools & Platforms:** Git, Docker, VS Code, PyCharm, Google Colab, MLOps, Supabase, Google Custom Search API, Groq  
 
 ---
 
-## 🏆 Shiny Achievements
-- 🥇 **InnovateYou Techathon 2.0 2025:** Snagged "Best Solution" for an epic AI-driven optimization project!
+## Achievements
+- **InnovateYou Techathon 2.0 2025:** Secured "Best Solution" for an AI-driven optimization project  
 
 ---
 
-## 🎓 Certificates
-- 🌟 The Complete Python Pro Bootcamp
-- 🤖 Machine Learning A-Z (Python)
-- 💾 Database Programming with SQL
-- 🌐 Full Stack Development
+## Certifications
+- The Complete Python Pro Bootcamp  
+- Machine Learning A-Z (Python)  
+- Database Programming with SQL  
+- Full Stack Development  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohitkshirsagar19&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkshirsagar19&layout=compact&theme=radical" alt="Top Languages">
@@ -64,13 +64,13 @@
 
 ---
 
-## 📬 Let’s Connect!
-- ✉️ **Email:** [rohitkshirsagar1904@gmail.com](mailto:rohitkshirsagar1904@gmail.com)
-- 🌐 **LinkedIn:** [linkedin.com/in/rohitkshirsagar19](https://linkedin.com/in/rohitkshirsagar19)
-- 📱 **Phone:** +91 9834978407
+## Connect
+- **Email:** [rohitkshirsagar1904@gmail.com](mailto:rohitkshirsagar1904@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/rohitkshirsagar19](https://linkedin.com/in/rohitkshirsagar19)  
+- **Phone:** +91 9834978407  
 
 <p align="center">
-  <em>Drop by my repos, say hi, or let’s cook up something awesome together! 🚀</em>
+  <em>Check out my repos or reach out for collaboration.</em>
 </p>
 
 <p align="center">
