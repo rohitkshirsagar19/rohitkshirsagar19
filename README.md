@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJmbTB6cWZhY2JscW9mMGYydmR0YzVncnVlaWFycjN0c3Rpd2J2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="AI Animation">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZybW95Ym90NjVrdWdpb3h1ODNnMXFmcTY2MGw5dGdqYzNlZTcxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" alt="AI Animation">
 </p>
 
 <h1 align="center">✨ Hey There, I'm Rohit Kshirsagar! ✨</h1>
