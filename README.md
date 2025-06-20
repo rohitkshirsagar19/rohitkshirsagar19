@@ -5,22 +5,50 @@
 <h1 align="center">Rohit Kshirsagar</h1>
 
 <p align="center">
-  <em>B.Tech student | AI, Data Science, and Full-Stack Enthusiast</em>
+  <em>AI & Data Science Enthusiast | Python Developer | Co-Founder <a href="https://www.apexai.company">@ ApexAI Solutions</a> </em>
 </p>
 
 <p align="center">
   <a href="mailto:rohitkshirsagar1904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/rohitkshirsagar19"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/rohitkshirsagar19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.instagram.com/rohitkshirsagar19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
 
 ## About
-- **Education:** B.Tech in Computer Science (AI & Data Science), AISSMS IoIT, Pune (Expected 2026)  
-- **Experience:** Python Developer, MEGAMINDS IT Services (Jul 2024 - Sep 2024)  
-- **Focus:** Machine Learning, Data Science, Full-Stack Development, MLOps  
-- **Current Pursuit:** Advanced ML techniques and Docker optimization  
+I'm a B.Tech student specializing in AI and Data Science at AISSMS IoIT, Pune (Expected 2026). Passionate about building intelligent applications, I blend machine learning, full-stack development, and MLOps to solve real-world problems. As a Python Developer at MEGAMINDS IT Services and Co-Founder at ApexAI Solutions, I’ve optimized workflows, developed scalable AI solutions, and driven innovation in fast-paced environments.  
+
+- **Education:** B.Tech in Computer Science (AI & Data Science), AISSMS IoIT, Pune  
+- **Experience:**  
+  - **Python Developer**, MEGAMINDS IT Services (Jul 2024 - Sep 2024)  
+  - **Co-Founder & Lead Operations**, [ApexAI Solutions](https://www.apexai.company/) (Jun 2025 - Present)  
+- **Focus:** Machine Learning, Full-Stack Development, MLOps, and Scalable AI Solutions  
+- **Fun Fact:** My code runs smoother than a Delhi metro at 3 a.m., but I still debug with a cup of chai in hand!  
+
+---
+
+## Featured Projects
+- **[AI-Powered Multi-Disease Predictor](https://github.com/rohitkshirsagar19/multi-disease-predictor)**  
+  A full-stack ML app for predicting multiple diseases using FastAPI, React (Vite), and MLflow. Deployed on AWS with Docker for low-resource environments.  
+  **Tech:** React, FastAPI, Scikit-learn, MLflow, Docker, AWS  
+
+- **[Edulite OS](https://github.com/rohitkshirsagar19/EduliteOS)**  
+  A lightweight, Ubuntu-based Linux OS for education, optimized for low-end hardware (≤2GB RAM) with offline learning tools and teacher dashboards.  
+  **Tech:** Python, Linux, Ubuntu, Kolibri, Cubic  
+  **Live:** [edulite-os-showcase.vercel.app](https://edulite-os-showcase.vercel.app/)  
+
+- **[Terminal Portfolio](https://github.com/rohitkshirsagar19/terminal-portfolio)**  
+  A Linux terminal-inspired website built with HTML, CSS, and JavaScript, showcasing my projects and skills with real commands.  
+  **Tech:** HTML, CSS, JavaScript  
+  **Live:** [rohitkshirsagar19.vercel.app](https://rohitkshirsagar19.vercel.app/)  
+
+- **[Fantasy Sports Optimisation](https://github.com/rohitkshirsagar19/fantasy-sports-machine-learning)**  
+  An AI-driven algorithm for fantasy sports team selection using predictive modeling and optimization techniques.  
+  **Tech:** Python, MLOps, Docker, TensorFlow  
+
+*Explore more projects on [my GitHub](https://github.com/rohitkshirsagar19?tab=repositories)!*
 
 ---
 
@@ -31,46 +59,48 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-- **Languages:** Python, C++, C, SQL, HTML, CSS, JavaScript, TypeScript  
-- **Frameworks & Libraries:** Flask, Streamlit, NumPy, Pandas, Scikit-learn, XGBoost, PuLP, Matplotlib, Plotly, Seaborn, YFinance, Next.js, Prisma  
-- **Tools & Platforms:** Git, Docker, VS Code, PyCharm, Google Colab, MLOps, Supabase, Google Custom Search API, Groq  
+- **Languages:** Python, C++, JavaScript, TypeScript, SQL, HTML, CSS, Go  
+- **Frameworks & Libraries:** Flask, FastAPI, Streamlit, Next.js, TensorFlow, NumPy, Pandas, Scikit-learn, XGBoost, PuLP, Matplotlib, Plotly, Seaborn, YFinance, Prisma  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools & Platforms:** Git, Docker, MLflow, GitHub Actions, AWS, Linux, Bash, Jupyter, Supabase, Google Custom Search API, Groq  
+- **Soft Skills:** Problem Solving, Teamwork, Communication  
 
 ---
 
 ## Achievements
-- **InnovateYou Techathon 2.0 2025:** Secured "Best Solution" for an AI-driven optimization project  
+- **InnovateYou Techathon 2.0 2025:** Secured "Best Solution" for Edtech Domain with an AI-driven optimization project  
 
 ---
 
 ## Certifications
-- The Complete Python Pro Bootcamp  
-- Machine Learning A-Z (Python)  
-- Database Programming with SQL  
-- Full Stack Development  
+- The Complete Python Pro Bootcamp (Udemy, 2023)  
+- Machine Learning A-Z (Udemy, 2024)  
+- Database Programming with SQL (Oracle Academy, 2023)  
+- Full Stack Development (Free Code Camp, 2024)  
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitkshirsagar19&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkshirsagar19&layout=compact&theme=radical" alt="Top Languages">
-</p>
+
 
 ---
 
 ## Connect
 - **Email:** [rohitkshirsagar1904@gmail.com](mailto:rohitkshirsagar1904@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/rohitkshirsagar19](https://linkedin.com/in/rohitkshirsagar19)  
+- **Instagram:** [instagram.com/rohitkshirsagar19](https://www.instagram.com/rohitkshirsagar19)  
 - **Phone:** +91 9834978407  
+- **Portfolio:** [rohitkshirsagar19.github.io](https://rohitkshirsagar19.github.io/)  
 
 <p align="center">
-  <em>Check out my repos or reach out for collaboration.</em>
+  <em>Let’s collaborate on something awesome or at least debug it together over some virtual chai ☕!</em>
 </p>
 
 <p align="center">
