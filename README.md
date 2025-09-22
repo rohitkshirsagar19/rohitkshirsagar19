@@ -5,7 +5,7 @@
 <h1 align="center">Rohit Kshirsagar</h1>
 
 <p align="center">
-  <em>AI & Data Science Enthusiast | Python Developer | Co-Founder <a href="https://www.apexai.company">@ ApexAI Solutions</a> </em>
+  <em>AI & Data Science Enthusiast | Python Developer  </em>
 </p>
 
 <p align="center">
@@ -18,14 +18,12 @@
 ---
 
 ## About
-I'm a B.Tech student specializing in AI and Data Science at AISSMS IoIT, Pune (Expected 2026). Passionate about building intelligent applications, I blend machine learning, full-stack development, and MLOps to solve real-world problems. As a Python Developer at MEGAMINDS IT Services and Co-Founder at ApexAI Solutions, I’ve optimized workflows, developed scalable AI solutions, and driven innovation in fast-paced environments.  
+I'm a B.Tech student specializing in AI and Data Science at AISSMS IoIT, Pune (Expected 2026). Passionate about building intelligent applications, I blend machine learning, full-stack development, and MLOps to solve real-world problems. As a Python Developer at MEGAMINDS IT Services , I’ve optimized workflows, developed scalable AI solutions, and driven innovation in fast-paced environments.  
 
 - **Education:** B.Tech in Computer Science (AI & Data Science), AISSMS IoIT, Pune  
 - **Experience:**  
   - **Python Developer**, MEGAMINDS IT Services (Jul 2024 - Sep 2024)  
-  - **Co-Founder & Lead Operations**, [ApexAI Solutions](https://www.apexai.company/) (Jun 2025 - Present)  
 - **Focus:** Machine Learning, Full-Stack Development, MLOps, and Scalable AI Solutions  
-- **Fun Fact:** My code runs smoother than a Delhi metro at 3 a.m., but I still debug with a cup of chai in hand!  
 
 ---
 
