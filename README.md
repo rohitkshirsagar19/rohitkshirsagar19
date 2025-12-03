@@ -94,7 +94,6 @@ I'm a B.Tech student specializing in AI and Data Science at AISSMS IoIT, Pune (E
 - **Email:** [rohitkshirsagar1904@gmail.com](mailto:rohitkshirsagar1904@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/rohitkshirsagar19](https://linkedin.com/in/rohitkshirsagar19)  
 - **Instagram:** [instagram.com/rohitkshirsagar19](https://www.instagram.com/rohitkshirsagar19)  
-- **Phone:** +91 9834978407  
 - **Portfolio:** [rohitkshirsagar19.github.io](https://rohitkshirsagar19.github.io/)  
 
 <p align="center">
