@@ -93,7 +93,7 @@ I am a final-year Computer Science student (Batch of 2026) bridging the gap betw
 
 <p align="center">
   <br>
-  <em>Aamhi Saare Khavayye 😋</em>
+  
   <br><br>
   <a href="https://rohitkshirsagar19.github.io/"><b>You are looking for this 👀</b></a>
 </p>
