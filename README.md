@@ -5,12 +5,12 @@
 <h1 align="center">Hi, I'm Rohit Kshirsagar 👋</h1>
 
 <p align="center">
-  <b>Backend Systems Engineer | AI Practitioner | Golang & Python Developer</b>
+  <b>Engineering Intern @ Tessact | Video AI Infrastructure</b>
 </p>
 
 <p align="center">
-  I build high-performance distributed systems and production-grade AI agents. <br>
-  Currently focusing on <b>System Design</b>, <b>Agentic Workflows</b>, and <b>Scalable Backends</b>.
+  I build high-performance distributed systems and production-grade AI pipelines. <br>
+  Currently solving for <b>Concurrency at Scale</b>, <b>Async Workflows</b>, and <b>Multimodal AI</b>.
 </p>
 
 <p align="center">
@@ -24,13 +24,19 @@
 ## 🚀 About Me
 I am a final-year Computer Science student (Batch of 2026) bridging the gap between **Software Engineering** and **Applied AI**. Unlike typical data science students, I focus heavily on **deployment, system architecture, and optimization**.
 
-*   🔭 **I’m currently working on:** Optimizing Go routines for high-concurrency backend services.
-*   💼 **Recent Experience:** AI Engineer Intern at **ApexAI Solutions** (Deployed LLMs to production).
+*   🔭 **I’m currently working on:** Building scalable video processing infrastructure.
+*   💼 **Previous Experience:** Deployed multilingual NLP pipelines to production at **ApexAI Solutions**.
 *   🏆 **Achievement:** Winner of **InnovateYou Techathon 2025** (EdTech Domain).
 
 ---
 
 ## 🛠 Work Experience
+
+### **Software Engineer Intern | Tessact**
+*(Feb 2026 – Present)*
+- **Core Focus:** Contributing to the end-to-end Video AI stack, working across video pipelines infrastructure, AI model integration, and frontend workflows.
+- **Infrastructure:** Building high-performance APIs using **FastAPI**, **Celery**, and **Redis** to handle asynchronous media processing tasks at scale.
+- **Innovation:** Exploring Generative AI applications for video understanding and automated content repurposing.
 
 ### **AI Engineer Intern | ApexAI Solutions Pvt Ltd**
 *(June 2025 – Sept 2025)*
@@ -58,15 +64,15 @@ I am a final-year Computer Science student (Batch of 2026) bridging the gap betw
 - **Core Tech:** **CrewAI**, **Python**, **FastAPI**, **Reinforcement Learning**.
 - **Features:** Orchestrates multiple AI agents to plan sprints, create Jira tickets, and track progress autonomously. Includes a React dashboard for monitoring.
 
-### 3. Edulite OS (Linux Distro)
-*> A lightweight Custom Linux OS for low-end hardware.*
-- **Core Tech:** **Linux Kernel**, **Ubuntu Base**, **Bash Scripting**, **Cubic**.
-- **Impact:** Optimized for devices with ≤2GB RAM. Pre-loaded with offline educational tools like Kolibri.
-
-### 4. Aryabhatta Search
+### 3. Aryabhatta Search
 *> **Winner of InnovateYou Techathon 2025***
 - **Core Tech:** Next.js, Groq LLM, Google Custom Search API.
 - **Function:** An AI-powered search engine that grounds LLM responses with real-time verified data sources.
+
+### 4. Edulite OS (Linux Distro)
+*> A lightweight Custom Linux OS for low-end hardware.*
+- **Core Tech:** **Linux Kernel**, **Ubuntu Base**, **Bash Scripting**, **Cubic**.
+- **Impact:** Optimized for devices with ≤2GB RAM. Pre-loaded with offline educational tools like Kolibri.
 
 ---
 
@@ -74,26 +80,16 @@ I am a final-year Computer Science student (Batch of 2026) bridging the gap betw
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend & Systems** | **Golang**, **Python**, **C++**, FastAPI, Flask, REST APIs, Linux |
-| **AI & ML** | **LLMs (Llama/Qwen)**, **RAG**, CrewAI, LangChain, TensorFlow, Scikit-learn, MLflow |
-| **DevOps & Cloud** | **Docker**, **Kubernetes**, **AWS (EC2, S3)**, GitHub Actions, N8N |
-| **Databases** | PostgreSQL, MySQL, Supabase, Qdrant (Vector DB) |
+| **Backend & Systems** | **Python**, **Golang**, **FastAPI**, Celery, Redis, C++, REST APIs |
+| **Video & Media** | **FFmpeg**, Video Processing Pipelines, Async I/O |
+| **AI & ML** | **LLMs (Llama/Qwen)**, **RAG**, CrewAI, LangChain, Vector DBs (Qdrant/Pinecone) |
+| **DevOps & Cloud** | **Docker**, **Kubernetes**, **AWS (EC2, S3)**, GitHub Actions |
+| **Databases** | PostgreSQL, MySQL, Supabase, Qdrant |
 | **Frontend** | React.js, Next.js, TypeScript, TailwindCSS |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitkshirsagar19&show_icons=true&theme=radical&hide_border=true" alt="Rohit's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkshirsagar19&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
 <p align="center">
   <br>
-  
-  <br><br>
   <a href="https://rohitkshirsagar19.github.io/"><b>You are looking for this 👀</b></a>
 </p>
