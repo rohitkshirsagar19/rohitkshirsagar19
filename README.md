@@ -22,11 +22,10 @@
 ---
 
 ## 🚀 About Me
-I am a final-year Computer Science student (Batch of 2026) bridging the gap between **Software Engineering** and **Applied AI**. Unlike typical data science students, I focus heavily on **deployment, system architecture, and optimization**.
 
-*   🔭 **I’m currently working on:** Building scalable video processing infrastructure.
-*   💼 **Previous Experience:** Deployed multilingual NLP pipelines to production at **ApexAI Solutions**.
-*   🏆 **Achievement:** Winner of **InnovateYou Techathon 2025** (EdTech Domain).
+I build backend systems, AI products, and automation pipelines that solve real-world problems.
+My work spans Python, FastAPI, Redis, Celery, Docker, GCP, AWS, PostgreSQL, LLM integrations, RAG systems, and full-stack development with React/Next.js. I enjoy working at the intersection of backend engineering, AI, and product especially in fast-moving teams where ownership and execution matter.
+Currently exploring opportunities in backend development, AI engineering, and full-stack product engineering.
 
 ---
 
