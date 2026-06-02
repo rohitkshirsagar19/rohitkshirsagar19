@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Rohit Kshirsagar 👋</h1>
 
 <p align="center">
-  <b>Engineering Intern @ Tessact | Video AI Infrastructure</b>
+  <b>Software Engineer - AI/ML & Backend | Architecting Async Pipelines & GenAI Systems</b>
 </p>
 
 <p align="center">
@@ -32,11 +32,15 @@ I am a final-year Computer Science student (Batch of 2026) bridging the gap betw
 
 ## 🛠 Work Experience
 
-### **Software Engineer Intern | Tessact**
-*(Feb 2026 – Present)*
-- **Core Focus:** Contributing to the end-to-end Video AI stack, working across video pipelines infrastructure, AI model integration, and frontend workflows.
-- **Infrastructure:** Building high-performance APIs using **FastAPI**, **Celery**, and **Redis** to handle asynchronous media processing tasks at scale.
-- **Innovation:** Exploring Generative AI applications for video understanding and automated content repurposing.
+### **Engineering Intern | Tessact**
+
+*(Feb 2026 – May 2026)*
+
+* **Media Pipeline:** Architected a **7-stage asynchronous media pipeline** using **FastAPI**, **Celery**, and **Redis** to fully automate the conversion of hours-long **16:9 broadcast news videos** into publish-ready **9:16 vertical reels**.
+* **Computer Vision:** Engineered and containerized **computer vision microservices** on **GCP Cloud Run**, utilizing **MediaPipe** and **OpenCV** for dynamic face tracking, stability smoothing, and smart cropping.
+* **AI Integration:** Integrated **Gemini LLM** for intelligent hook detection and metadata generation, and leveraged **FFmpeg** and **Remotion** for lossless video clipping and programmatic branded rendering.
+* **Systems Engineering:** Solved complex distributed system edge cases involving asynchronous task orchestration, scalable media processing, and reliable video pipeline execution.
+
 
 ### **AI Engineer Intern | ApexAI Solutions Pvt Ltd**
 *(June 2025 – Sept 2025)*
